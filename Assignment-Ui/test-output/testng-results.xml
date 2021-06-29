@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-29T16:09:42Z" name="Default suite" finished-at="2021-06-29T16:10:17Z" duration-ms="34725">
+    <groups>
+    </groups>
+    <test started-at="2021-06-29T16:09:42Z" name="Default test" finished-at="2021-06-29T16:10:17Z" duration-ms="34725">
+      <class name="vaisala.Vaisalaa">
+        <test-method is-config="true" signature="prerequisites()[pri:0, instance:vaisala.Vaisalaa@78aa1f72]" started-at="2021-06-29T21:39:42Z" name="prerequisites" finished-at="2021-06-29T21:40:12Z" duration-ms="29517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisites -->
+        <test-method signature="case2()[pri:0, instance:vaisala.Vaisalaa@78aa1f72]" started-at="2021-06-29T21:40:12Z" name="case2" finished-at="2021-06-29T21:40:14Z" duration-ms="2592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case2 -->
+        <test-method signature="validateCompany(java.lang.String)[pri:0, instance:vaisala.Vaisalaa@78aa1f72]" started-at="2021-06-29T21:40:14Z" name="validateCompany" data-provider="data-provider" finished-at="2021-06-29T21:40:15Z" duration-ms="274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1111111111111111111111222222222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCompany -->
+        <test-method signature="validateCompany(java.lang.String)[pri:0, instance:vaisala.Vaisalaa@78aa1f72]" started-at="2021-06-29T21:40:15Z" name="validateCompany" data-provider="data-provider" finished-at="2021-06-29T21:40:15Z" duration-ms="329" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ttttttttttttttttttttttttttttttttttttttttttt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCompany -->
+        <test-method signature="validateCompany(java.lang.String)[pri:0, instance:vaisala.Vaisalaa@78aa1f72]" started-at="2021-06-29T21:40:15Z" name="validateCompany" data-provider="data-provider" finished-at="2021-06-29T21:40:16Z" duration-ms="558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[######################$$$$$$$$$$$$%%%%%%%%&&&&&&&&&*********!@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCompany -->
+        <test-method signature="validateCompany(java.lang.String)[pri:0, instance:vaisala.Vaisalaa@78aa1f72]" started-at="2021-06-29T21:40:16Z" name="validateCompany" data-provider="data-provider" finished-at="2021-06-29T21:40:16Z" duration-ms="387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tttttttttttt&***56565767676767667676767676767676767676]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCompany -->
+        <test-method signature="validateCompany1()[pri:0, instance:vaisala.Vaisalaa@78aa1f72]" started-at="2021-06-29T21:40:16Z" name="validateCompany1" finished-at="2021-06-29T21:40:16Z" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCompany1 -->
+        <test-method is-config="true" signature="postActions()[pri:0, instance:vaisala.Vaisalaa@78aa1f72]" started-at="2021-06-29T21:40:16Z" name="postActions" finished-at="2021-06-29T21:40:17Z" duration-ms="894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postActions -->
+      </class> <!-- vaisala.Vaisalaa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
