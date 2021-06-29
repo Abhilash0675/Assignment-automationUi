@@ -1,0 +1,10 @@
+1.All the fields need to enable to enter the text in the fields.
+2.Need to enable the login button when all the fields(company name, username, and password) are provided.
+3.Need to get the policies when the Privacy policy link is clicked.
+4.Need to log in only when valid details(all columns) are provided.
+5.Need to check Forget password future.
+6.Need to get a validation message (Invalid user credentials)when the login fails.
+7.Need to get validation message when company fields inputs values is more than 30 characters before clicking on the login button.
+8.The company Name field should accept characters, numbers, and special characters.
+9.Need to have a title for the login page.
+10.Need to check the Ui of the login page.
